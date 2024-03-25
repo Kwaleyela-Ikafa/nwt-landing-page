@@ -28,8 +28,10 @@ const Introduction = () => {
         <div className="about-buttons-container">
           <a
             className="secondary-button"
-            href="https://www.mordorintelligence.com/fr/industry-reports/millets-market" target="_blank"
-          >Learn More</a>
+            href="https://www.mordorintelligence.com/fr/industry-reports/millets-market" target="_blank" rel="noreferrer"
+          >
+            Learn More
+          </a>
         </div>
       </div>
     </div>
